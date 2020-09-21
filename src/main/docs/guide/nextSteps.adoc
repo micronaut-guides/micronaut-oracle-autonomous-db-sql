@@ -1,0 +1,4 @@
+
+Read more about https://micronaut-projects.github.io/micronaut-oracle-cloud/latest/guide/[Micronaut Oracle Cloud].
+
+TODO add a link to autonomous documentation

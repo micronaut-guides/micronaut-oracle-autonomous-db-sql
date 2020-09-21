@@ -1,0 +1,14 @@
+include::{commondir}/common-create-app-java.adoc[]
+
+include::{commondir}/common-annotationprocessors.adoc[]
+
+Create a micronaut application using the CLI:
+
+[source,bash]
+----
+% mn create-app example.micronaut.complete
+----
+
+or use https://launch.micronaut.io[Micronaut Launch]
+
+image::launch.png[]
